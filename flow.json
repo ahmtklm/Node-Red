@@ -32,7 +32,7 @@
         "y": 100,
         "wires": [
             [
-                "c5a5af8825671f2d"
+                "04599184797ad6c4"
             ]
         ]
     },
@@ -48,8 +48,27 @@
         "complete": "false",
         "statusVal": "",
         "statusType": "auto",
-        "x": 460,
+        "x": 600,
         "y": 100,
         "wires": []
+    },
+    {
+        "id": "04599184797ad6c4",
+        "type": "function",
+        "z": "924d9dfe3158d446",
+        "name": "function 1",
+        "func": "\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 380,
+        "y": 100,
+        "wires": [
+            [
+                "c5a5af8825671f2d"
+            ]
+        ]
     }
 ]
