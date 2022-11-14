@@ -48,8 +48,8 @@
         "complete": "false",
         "statusVal": "",
         "statusType": "auto",
-        "x": 700,
-        "y": 280,
+        "x": 720,
+        "y": 160,
         "wires": []
     },
     {
