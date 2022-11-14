@@ -48,8 +48,8 @@
         "complete": "false",
         "statusVal": "",
         "statusType": "auto",
-        "x": 600,
-        "y": 100,
+        "x": 520,
+        "y": 340,
         "wires": []
     },
     {
@@ -63,8 +63,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 380,
-        "y": 100,
+        "x": 220,
+        "y": 360,
         "wires": [
             [
                 "c5a5af8825671f2d"
