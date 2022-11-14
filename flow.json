@@ -321,8 +321,8 @@
         "active": true,
         "console": "false",
         "complete": "true",
-        "x": 810,
-        "y": 40,
+        "x": 1050,
+        "y": 60,
         "wires": []
     },
     {
